@@ -1,0 +1,78 @@
+Aleksandr Ivanovich Petrov
+[
+  {
+    "full_name": "Aleksandr Ivanovich Petrov",
+    "alternate_spellings": ["Alexander Petrov", "Alexandr Petrov", "Aleksander Petrov"],
+    "nickname": "Sasha",
+    "date_of_birth": "1985-07-12",
+    "country_of_origin": "Russia",
+    "alphabet": "Latin"
+  },
+  {
+    "full_name": "Александр Иванович Петров",
+    "alternate_spellings": ["Александр Петров", "Александр И. Петров"],
+    "nickname": "Саша",
+    "date_of_birth": "12.07.1985",
+    "country_of_origin": "Россия",
+    "alphabet": "Cyrillic"
+  },
+  {
+    "full_name": "Aleksandr I. Petrov",
+    "alternate_spellings": ["A. I. Petrov", "Alek Petrov"],
+    "nickname": "Alex",
+    "date_of_birth": "07/12/1985",
+    "country_of_origin": "Russian Federation",
+    "alphabet": "Latin"
+  },
+  {
+    "full_name": "Alexander Ivanovich Petrov",
+    "alternate_spellings": ["Alexander Petrov", "Alex Petrov"],
+    "nickname": "Sanya",
+    "date_of_birth": "1985-12-07",
+    "country_of_origin": "Ukraine",
+    "alphabet": "Latin"
+  },
+  {
+    "full_name": "Александр Петров",
+    "alternate_spellings": ["Александр Иванович Петров", "Саша Петров"],
+    "nickname": "Саня",
+    "date_of_birth": "12 July 1985",
+    "country_of_origin": "Belarus",
+    "alphabet": "Cyrillic"
+  }
+]
+Maria Eduarda da Silva
+[
+  {
+    "full_name": "Maria Eduarda da Silva",
+    "alternate_spellings": ["Maria E. da Silva", "Maria Eduarda Silva"],
+    "nickname": "Duda",
+    "date_of_birth": "1992-03-15",
+    "region": "Brazil",
+    "language": "Portuguese"
+  },
+  {
+    "full_name": "María Eduarda da Silva",
+    "alternate_spellings": ["María E. da Silva", "María Eduarda Silva"],
+    "nickname": "Mari",
+    "date_of_birth": "15/03/1992",
+    "region": "Argentina",
+    "language": "Spanish"
+  },
+  {
+    "full_name": "Mary Eduarda Silva",
+    "alternate_spellings": ["Mary E. Silva", "Mary D. Silva"],
+    "nickname": "Mary",
+    "date_of_birth": "03-15-1992",
+    "region": "United States",
+    "language": "English"
+  },
+  {
+    "full_name": "Maria Eduarda da Silva",
+    "alternate_spellings": ["M. Eduarda da Silva", "Maria E. d. Silva"],
+    "nickname": "Du",
+    "date_of_birth": "1992/03/15",
+    "region": "Portugal",
+    "language": "Portuguese"
+  }
+]
